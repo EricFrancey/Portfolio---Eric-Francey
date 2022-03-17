@@ -64,6 +64,30 @@ aside {
     max-height: 300px;
     background-image: url("../images/datecut.png");
 }
+#book-umbrella {
+  height: auto; 
+  width: auto; 
+  max-width: 300px; 
+  max-height: 300px;
+  background-image: url("../images/bookumbrella.jpg");
+}
+#employee-tracker {
+  height: auto; 
+  width: auto; 
+  max-width: 300px; 
+  max-height: 300px;
+  background-image: url("../images/employeetracker.jpg");
+}
+
+#this-portfolio {
+  height: auto; 
+  width: auto; 
+  max-width: 300px; 
+  max-height: 300px;
+  background-image: url("../images/thisportfolio.jpg");
+}
+
+
 
 #readme-gen {
   height: auto; 
